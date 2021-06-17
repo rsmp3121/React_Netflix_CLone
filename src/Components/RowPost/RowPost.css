@@ -8,7 +8,7 @@
   overflow-x: scroll;
   overflow-y: hidden;
 }
-.posters::-webkit-scrollbar {
+.poster::-webkit-scrollbar {
   scrollbar-width: none;
   display: none;
   background: transparent;
